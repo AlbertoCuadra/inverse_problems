@@ -1,4 +1,6 @@
 # Inverse problems
+![repo size](https://img.shields.io/github/repo-size/AlbertoCuadra/inverse_problems)
+![last modified](https://img.shields.io/github/last-commit/AlbertoCuadra/inverse_problems)
 
 A collection of inverse problems.
 
