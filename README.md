@@ -1,6 +1,6 @@
 # Inverse problems
 
-A collection of inverse problems.+
+A collection of inverse problems.
 
 Problems included:
 
