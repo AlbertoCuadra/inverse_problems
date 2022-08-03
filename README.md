@@ -2,6 +2,8 @@
 
 A collection of inverse problems.
 
+Additionally, I have included the [report](report_ES.pdf) that I wrote along with the GUI.
+
 Problems included:
 
 * gravitational prospecting (project 1),
